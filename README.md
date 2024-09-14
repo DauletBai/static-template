@@ -1,5 +1,9 @@
 ![Header](assets/brand/logo.png)
 
-# static-template
+# Static-template.
 
 Static files and templates for Go
+
+## Blog page screenshot.
+
+![Screenshot](assets/img/page.png)
